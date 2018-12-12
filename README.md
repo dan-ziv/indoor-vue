@@ -9,7 +9,7 @@
 `yarn run dev`
 4. Open your browset at: `http://localhost:8080​`
 
-##Notes:
+## Notes:
 1. For testing reasons, the diff time between 2 missions of the same type is 10 **seconds** (and not minutes), so you can see this feature implemented.
 2. I've exported a REST API to manipulated the DB fields (battery & location for now).
 
