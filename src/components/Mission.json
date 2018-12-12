@@ -1,0 +1,11 @@
+{
+  "Patrol": {
+    "type": "primary"
+  },
+  "Quick Scan": {
+    "type": "success"
+  },
+  "Guard": {
+    "type": "warning"
+  }
+}
